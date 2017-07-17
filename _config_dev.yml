@@ -1,12 +1,12 @@
 # Site Settings
-title: Spacious
+title: Adam J Gomez
 email:
 description: >
-  Spacious bootstrap & Jekyll 4 template
+  Portfolio of Adam J Gomez
 baseurl: ""
 url: "http://localhost:4000"
 twitter_username:
-github_username:  pmsaue0
+github_username:  adamjgomez
 # Build Settings
 sass:
   sass_dir: _sass
